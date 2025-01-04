@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-### 📫 Contact Me
+### 📫 Contact me on Linkedin
 
 [![LinkedIn](https://media.licdn.com/dms/image/v2/D4D03AQFUIWProQ1yBA/profile-displayphoto-shrink_200_200/B4DZQqCiwxGgAc-/0/1735872098220?e=1741219200&v=beta&t=vmFwjXXBpynoZJ3WN-DWacCKoxlY5_f-nN_XB990drw)](https://www.linkedin.com/in/igor-s-cardoso/)
 
