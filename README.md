@@ -3,8 +3,8 @@
 Sou um desenvolvedor web fullstack formado pelo curso da Trybe e atualmente cursando Análise e Desenvolvimento de Sistemas. Desde cedo, sou apaixonado por tecnologia, e minha curiosidade me levou a desmontar computadores para entender seu funcionamento. Hoje, trabalho como técnico de TI na Studio Games em Indaiatuba. Estou sempre aprendendo e busco novas oportunidades para aplicar minhas habilidades em projetos desafiadores, priorizando eficiência e inovação.
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=igorcardos0&theme=tokyonight&hide_border=false) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=donut-vertical&theme=tokyonight&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=igorcardos0&theme=aura&hide_border=false) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=donut-vertical&theme=aura&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📫 Contact me on Linkedin
