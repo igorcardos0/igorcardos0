@@ -4,7 +4,7 @@ Sou um desenvolvedor web fullstack formado pelo curso da Trybe e atualmente curs
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=igorcardos0&theme=tokyonight&hide_border=false) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=donut-vertical&theme=tokyonight&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📫 Contact me on Linkedin
