@@ -1,4 +1,4 @@
-## Olaaaa!! 👋
+## Olaaa!! 👋
 
 Sou um desenvolvedor web fullstack formado pelo curso da Trybe e atualmente cursando Análise e Desenvolvimento de Sistemas. Desde cedo, sou apaixonado por tecnologia, e minha curiosidade me levou a desmontar computadores para entender seu funcionamento. Hoje, trabalho como técnico de TI na Studio Games em Indaiatuba. Estou sempre aprendendo e busco novas oportunidades para aplicar minhas habilidades em projetos desafiadores, priorizando eficiência e inovação.
 
