@@ -1,35 +1,20 @@
 ## Olaaaa!! 👋
 
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&title_color=C00102&icon_color=C00102" />
-      </picture>
-    </td>
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&theme=dark&title_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&title_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&title_color=C00102" />
-      </picture>
-    </td>
-  </tr>
-</table>
+Sou um desenvolvedor web fullstack formado pelo curso da Trybe e atualmente cursando Análise e Desenvolvimento de Sistemas. Desde cedo, sou apaixonado por tecnologia, e minha curiosidade me levou a desmontar computadores para entender seu funcionamento. Hoje, trabalho como técnico de TI na Studio Games em Indaiatuba e tenho experiência em JavaScript, React, Node.js, MySQL e MongoDB. Estou sempre aprendendo e busco novas oportunidades para aplicar minhas habilidades em projetos desafiadores, priorizando eficiência e inovação.
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%9f200b) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=igorcardos0&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=igorcardos0&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=igorcardos0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=igorcardos0&icon=1&color=6)](https://visitcount.itsvg.in)
+
 
 ### 📫 Contact me on Linkedin
 
