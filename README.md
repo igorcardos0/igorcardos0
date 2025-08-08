@@ -48,4 +48,5 @@ Familiaridade com metodologias ágeis (<strong>Scrum/Kanban</strong>) e ferramen
 ---
 
 <p align="center">
-💡 Aberto a colaborações, pro
+💡 Aberto a colaborações, projetos e novas oportunidades.
+</p>
