@@ -16,16 +16,6 @@ Familiaridade com metodologias ágeis (<strong>Scrum/Kanban</strong>) e ferramen
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&theme=cobalt" alt="Estatísticas do GitHub" />
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&theme=cobalt" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ### 🚀 Tecnologias & Ferramentas
 
 <div align="center">
