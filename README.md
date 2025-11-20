@@ -24,14 +24,22 @@ Familiaridade com metodologias ágeis (<strong>Scrum/Kanban</strong>) e ferramen
 
 ---
 
+### 📊 Estatísticas de Linguagens
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=9f9f9f&bg_color=00000000" height="160" alt="Top Linguagens" />
+</div>
+
+---
+
 ### 📫 Vamos nos conectar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-s-cardoso/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="https://dev.to/igorcardos0" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="30" alt="Dev.to" />
+    <img src="https://img.shields.io/badge/Dev.to-D32F2F?style=for-the-badge&logo=dev.to&logoColor=white" height="30" alt="Dev.to" />
   </a>
 </div>
 
