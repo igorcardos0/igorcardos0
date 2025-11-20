@@ -6,7 +6,7 @@ Desenvolvo aplicações completas focadas em performance, escalabilidade e exper
 </p>
 
 <p align="center">
-💻 Experiência sólida com <strong>JavaScript, TypeScript, React, Next.js, Node.js, Express, SQL, Docker e Linux</strong>.<br>
+💻 Experiência sólida com <strong>JavaScript, TypeScript, React, Next.js, Node.js, Express, SQL, Docker, Linux, PHP e WordPress</strong>.<br>
 Trabalho com boas práticas de código, arquitetura limpa e versionamento com Git.
 </p>
 
@@ -23,7 +23,7 @@ Trabalho com boas práticas de código, arquitetura limpa e versionamento com Gi
 ### 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,jest,figma,express,docker,linux" height="50" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,php,wordpress,jest,figma,express,docker,linux" height="50" alt="Tecnologias" />
 </div>
 
 ---
