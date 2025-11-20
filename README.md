@@ -1,7 +1,3 @@
-## 🧑‍💻 Engenheiro de Software | Full Stack  
-## 🎯 Estrategista de Marketing e Conversões  
-## 🚀 @v4company • @alpla.br  
-
 <h1 align="center">👋 Olá, eu sou o Igor!</h1>
 
 <p align="center">
