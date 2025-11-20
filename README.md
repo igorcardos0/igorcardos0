@@ -1,17 +1,25 @@
+## 🧑‍💻 Engenheiro de Software | Full Stack  
+## 🎯 Estrategista de Marketing e Conversões  
+## 🚀 @v4company • @alpla.br  
+
 <h1 align="center">👋 Olá, eu sou o Igor!</h1>
 
 <p align="center">
-💻 Desenvolvedor Web Full Stack formado pela <strong>Trybe</strong>, com experiência em <strong>JavaScript, React, Node.js, Express, SQL, HTML e CSS</strong>.<br>
-Atuo no desenvolvimento de aplicações completas, integrando front-end e back-end, seguindo boas práticas e versionamento com Git.
+Sou <strong>Engenheiro de Software Full Stack</strong> e <strong>Estrategista de Marketing e Conversões</strong>, unindo expertise técnica com visão de negócio para construir soluções que realmente geram resultado.<br>
+Desenvolvo aplicações completas focadas em performance, escalabilidade e experiência do usuário.
 </p>
 
 <p align="center">
-🎯 Tenho facilidade para trabalhar em equipe, resolver problemas e organizar processos, experiência adquirida tanto no setor técnico quanto como gerente.<br>
-Familiaridade com metodologias ágeis (<strong>Scrum/Kanban</strong>) e ferramentas como <strong>GitHub, Trello e Slack</strong>.
+💻 Experiência sólida com <strong>JavaScript, TypeScript, React, Next.js, Node.js, Express, SQL, Docker e Linux</strong>.<br>
+Trabalho com boas práticas de código, arquitetura limpa e versionamento com Git.
 </p>
 
 <p align="center">
-🎓 Atualmente curso <strong>Ciência da Computação</strong> na Universidade Max Planck (Unimax) e busco desafios para aplicar meus conhecimentos, evoluir tecnicamente e contribuir em projetos de impacto.
+📈 Além da engenharia, aplico estratégias de marketing orientadas a dados para melhorar conversão, rastreamento, funis e performance digital — entregando tecnologia alinhada a resultados.
+</p>
+
+<p align="center">
+🎓 Estudante de <strong>Ciência da Computação</strong> na Unimax e constantemente aprimorando minhas habilidades para atuar em projetos de alto impacto.
 </p>
 
 ---
@@ -45,5 +53,5 @@ Familiaridade com metodologias ágeis (<strong>Scrum/Kanban</strong>) e ferramen
 ---
 
 <p align="center">
-💡 Aberto a colaborações, projetos e novas oportunidades.
+💡 Aberto a colaborações, projetos e oportunidades que unam tecnologia, estratégia e impacto real.
 </p>
