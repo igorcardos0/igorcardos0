@@ -24,12 +24,11 @@ Familiaridade com metodologias ágeis (<strong>Scrum/Kanban</strong>) e ferramen
 
 ---
 
-### 📊 Estatísticas de Linguagens
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=9f9f9f&bg_color=00000000" height="160" alt="Top Linguagens" />
+<div>
+<a href="https://github.com/igorcardos0">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 ---
 
 ### 📫 Vamos nos conectar?
