@@ -30,6 +30,7 @@
 
 <div align="center">
   <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&langs_count=7&title_color=D32F2F&icon_color=D32F2F&border_color=D32F2F&bg_color=0D1117&hide_border=true" alt="Top Linguagens"/>
+  
   <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=D32F2F&icon_color=D32F2F&border_color=D32F2F&bg_color=0D1117&hide_border=true" alt="Estatísticas do GitHub"/>
 </div>
 
