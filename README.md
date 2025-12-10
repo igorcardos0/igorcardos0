@@ -29,9 +29,7 @@
 ---
 
 <div align="center">
-  <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&langs_count=7&title_color=D32F2F&icon_color=D32F2F&border_color=D32F2F&bg_color=0D1117&hide_border=true" alt="Top Linguagens"/>
-  
-  <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=D32F2F&icon_color=D32F2F&border_color=D32F2F&bg_color=0D1117&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcardos0&theme=dark&hide_border=true&background=0D1117&ring=D32F2F&fire=D32F2F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=D32F2F&sideLabels=D32F2F&dates=D32F2F" alt="GitHub Streak" />
 </div>
 
 ---
