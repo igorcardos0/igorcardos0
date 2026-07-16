@@ -97,18 +97,15 @@ Por isso, procuro unir:
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+</div>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&include_all_commits=true&count_private=true&title_color=D32F2F&icon_color=D32F2F&text_color=FFFFFF&bg_color=0D1117&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Igor Cardoso" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&langs_count=8&title_color=D32F2F&text_color=FFFFFF&bg_color=0D1117&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcardos0&theme=dark&hide_border=true&ring=D32F2F&fire=D32F2F&currStreakLabel=D32F2F" alt="Sequência de contribuições no GitHub" />
-
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=igorcardos0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -121,12 +118,16 @@ Estou aberto a conexões, colaborações, projetos e oportunidades que envolvam 
 
 ### Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-D32F2F?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/igor-s-cardoso/)
-[![Dev.to](https://img.shields.io/badge/Acompanhar%20no%20Dev.to-D32F2F?style=for-the-badge\&logo=dev.to\&logoColor=white)](https://dev.to/igorcardos0)
+<a href="https://www.linkedin.com/in/igor-s-cardoso/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://dev.to/igorcardos0" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-Acompanhar-D32F2F?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=igorcardos0&label=Visualizações%20do%20perfil&color=D32F2F&style=flat-square" alt="Contador de visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=igorcardos0&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=D32F2F&style=flat" alt="Visualizações do perfil" />
 
 <br><br>
 
