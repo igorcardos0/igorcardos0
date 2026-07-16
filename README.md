@@ -97,19 +97,35 @@ Por isso, procuro unir:
 
 ---
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=igorcardos0&theme=github_dark"
+    alt="Estatísticas do GitHub de Igor Cardoso"
+  />
+
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igorcardos0&theme=github_dark"
+    alt="Linguagens utilizadas nos repositórios"
+  />
 </div>
 
+<br>
+
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=igorcardos0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=igorcardos0&theme=dark&hide_border=true"
+    alt="Sequência de contribuições de Igor Cardoso"
+  />
 </div>
 
 ---
-
 ## 🤝 Vamos construir algo juntos?
 
 Estou aberto a conexões, colaborações, projetos e oportunidades que envolvam **desenvolvimento de software, produtos digitais, dados e estratégia**.
