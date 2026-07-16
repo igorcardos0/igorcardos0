@@ -20,9 +20,11 @@
 
 Sou desenvolvedor **Full Stack**, com maior experiência em **frontend, automações e integrações de sistemas**, e estudante de **Ciência da Computação na UniMAX**.
 
-Trabalho principalmente com **React, Next.js e TypeScript** na construção de interfaces modernas, responsivas e orientadas às necessidades do negócio. Também desenvolvo APIs, integro serviços externos, trabalho com bancos de dados e automatizo processos utilizando **Node.js, Python, PostgreSQL, Supabase, n8n e webhooks**.
+Trabalho principalmente com **React, Next.js e TypeScript** na construção de interfaces modernas, responsivas e orientadas às necessidades do negócio.
 
-Minha experiência combina desenvolvimento de software com conhecimentos em **marketing digital, análise de dados, conversão e processos operacionais**. Isso me ajuda a compreender não apenas como construir uma solução, mas também qual problema ela precisa resolver.
+Também tenho experiência no desenvolvimento de APIs, integração com serviços externos, bancos de dados e automação de processos utilizando **Node.js, NestJS, Python, PostgreSQL, Supabase, n8n e webhooks**.
+
+Minha trajetória combina desenvolvimento de software com conhecimentos em **marketing digital, análise de dados, conversão e processos operacionais**. Essa visão me ajuda a compreender não apenas como construir uma solução, mas também qual problema ela precisa resolver.
 
 Atualmente, busco oportunidades como:
 
@@ -45,7 +47,7 @@ Atualmente, busco oportunidades como:
         Desenvolvimento de interfaces responsivas, componentizadas e focadas em performance, usabilidade e experiência do usuário.
       </p>
       <p>
-        <strong>React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS</strong>
+        <strong>React · Next.js · TypeScript · JavaScript · Tailwind CSS</strong>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -65,7 +67,7 @@ Atualmente, busco oportunidades como:
         Construção de aplicações completas, incluindo frontend, APIs, autenticação, regras de acesso e persistência de dados.
       </p>
       <p>
-        <strong>Node.js · Express · PostgreSQL · Supabase · SQL</strong>
+        <strong>Node.js · NestJS · Express · PostgreSQL · Supabase</strong>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -88,29 +90,37 @@ Atualmente, busco oportunidades como:
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="48" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS" />
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 
 <br><br>
 
-### Backend, APIs e dados
+### Backend e APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,supabase" height="48" alt="Node.js, Express, Python, PostgreSQL e Supabase" />
-
-<br><br>
-
-### Automação
-
-<img src="https://img.shields.io/badge/n8n-Automa%C3%A7%C3%B5es%20e%20Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-
-<img src="https://img.shields.io/badge/Webhooks-Integra%C3%A7%C3%B5es-D32F2F?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks" />
-
-<img src="https://img.shields.io/badge/APIs%20REST-Integra%C3%A7%C3%B5es-D32F2F?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST" />
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/></code> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="NestJS" title="NestJS"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/></code> <code><img width="50" src="https://cdn.simpleicons.org/swagger/85EA2D" alt="APIs REST" title="APIs REST"/></code>
 
 <br><br>
 
-### Infraestrutura e ferramentas
+### Banco de dados
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,jest,figma" height="48" alt="Docker, Linux, Git, GitHub, Vercel, Jest e Figma" />
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/></code> <code><img width="50" src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" title="Supabase"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/></code>
+
+<br><br>
+
+### Automação e integrações
+
+<code><img width="50" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n"/></code> <code><img width="50" src="https://cdn.simpleicons.org/webhook/2088FF" alt="Webhooks" title="Webhooks"/></code> <code><img width="50" src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="Google Analytics 4" title="Google Analytics 4"/></code> <code><img width="50" src="https://cdn.simpleicons.org/googletagmanager/246FDB" alt="Google Tag Manager" title="Google Tag Manager"/></code>
+
+<br><br>
+
+### Infraestrutura e deploy
+
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code> <code><img width="50" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" title="Vercel"/></code>
+
+<br><br>
+
+### Desenvolvimento e colaboração
+
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/></code> <code><img width="50" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" title="Jest"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma"/></code> <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress"/></code>
 
 </div>
 
@@ -127,14 +137,14 @@ Atualmente, busco oportunidades como:
 * Criação de automações em n8n para processos operacionais, financeiros e de monitoramento.
 * Integração com plataformas e serviços externos, incluindo ferramentas de marketing e mídia.
 * Desenvolvimento de interfaces e funcionalidades para visualização e gerenciamento de dados.
-* Apoio em deploys, servidores VPS, Docker e sustentação das aplicações.
+* Apoio em deploys, servidores VPS, Docker e sustentação de aplicações.
 
 ### Desenvolvedor de Software
 
 **ALPLATECH · Nov 2024 — Set 2025**
 
 * Desenvolvimento de sites, sistemas web e soluções digitais sob medida.
-* Construção de aplicações com React, Node.js e PostgreSQL.
+* Construção de aplicações utilizando React, Node.js e PostgreSQL.
 * Transformação de processos manuais em fluxos digitais.
 * Participação no processo completo, desde a prototipagem até o deploy.
 * Desenvolvimento de interfaces responsivas e integrações com serviços externos.
@@ -143,7 +153,7 @@ Atualmente, busco oportunidades como:
 
 **Studio Games Franchising · Jan 2024 — Ago 2024**
 
-* Desenvolvimento de ferramentas e scripts em Python para automatização de rotinas.
+* Desenvolvimento de ferramentas e scripts em Python para automação de rotinas.
 * Administração e manutenção de redes locais.
 * Suporte técnico, diagnóstico e manutenção de equipamentos.
 * Automação de atualizações e processos internos.
@@ -156,7 +166,7 @@ Atualmente, busco oportunidades como:
 
 Plataforma interna de inteligência de dados desenvolvida para centralizar informações das áreas operacional, comercial e de mídia.
 
-O sistema reúne dados anteriormente distribuídos entre diferentes ferramentas e permite que as equipes consultem informações importantes por meio de uma única interface.
+O sistema reunia dados anteriormente distribuídos entre diferentes ferramentas, permitindo que as equipes consultassem informações relevantes por meio de uma única interface.
 
 #### Minha atuação
 
@@ -176,7 +186,7 @@ O sistema reúne dados anteriormente distribuídos entre diferentes ferramentas 
 
 ### ⚡ Landing Pages e Experiências de Conversão
 
-Coleção de landing pages e sites desenvolvidos para diferentes negócios, campanhas e objetivos de aquisição.
+Coleção de landing pages e sites desenvolvidos para diferentes empresas, campanhas e objetivos de aquisição.
 
 Os projetos foram construídos com foco em responsividade, velocidade de carregamento, clareza da comunicação e integração com ferramentas de marketing.
 
@@ -196,7 +206,7 @@ Os projetos foram construídos com foco em responsividade, velocidade de carrega
 
 ---
 
-## 📚 Formação
+## 📚 Formação acadêmica
 
 ### Bacharelado em Ciência da Computação
 
