@@ -1,74 +1,54 @@
 <div align="center">
 
-# Oi, eu sou o Igor 👋
+# Igor Cardoso
 
-### Engenheiro de Software · IA aplicada & Full Stack
+**Engenheiro de Software · IA aplicada e Full Stack**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=D32F2F&center=true&vCenter=true&width=700&lines=Construindo+agentes+de+IA+na+LUSA+Brasil;Agentes%2C+RAG+e+LLMs+dentro+de+produtos;Full+Stack+com+React%2C+Next.js+e+Node.js" alt="Igor Cardoso" />
+Agentes autônomos, RAG e automação de processos · TypeScript, Python, NestJS, Laravel e Next.js
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-s-cardoso/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-D32F2F?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/igorcardos0)
-[![E-mail](https://img.shields.io/badge/E--mail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.igordesouzacardoso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-s-cardoso/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/igorcardos0)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.igordesouzacardoso@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mim
+Transformo processos que rodam em planilha, WhatsApp e trabalho manual em software, cada vez mais com IA dentro do fluxo.
 
-Comecei no frontend, construindo sites e landing pages, fui para sistemas internos e automações, e hoje trabalho com **engenharia de IA**: agentes que usam ferramentas, RAG e features de LLM que resolvem problemas reais do negócio.
+Hoje sou engenheiro de software na **LUSA Brasil**, onde construo sistemas de IA aplicada e o full stack que os sustenta. Antes disso passei pela **V4 Company**, com automações com LLM, atendimento com IA no WhatsApp e plataformas internas de dados.
 
-- 🔭 Hoje na **LUSA Brasil**, criando agentes de IA, incluindo um **gestor de tráfego pago autônomo**
-- 🧠 No dia a dia: agentes com acesso a ferramentas, RAG sobre base interna, LLMs em produtos e automação de processos
-- 👥 Coordeno um dev júnior que assumiu as demandas de páginas enquanto eu foco em sistemas e inovação
-- 🎓 Cursando Ciência da Computação na UniMAX
-- 💬 Gosto de conversar sobre agentes de IA, automação e produto
+Curso Ciência da Computação na UniMAX e estou estudando para a certificação AWS.
 
 ---
 
-## Stack
+### O que eu construo
 
-<div align="center">
+**Agentes autônomos**: agentes com acesso a ferramentas e APIs que executam tarefas em múltiplos passos, não só respondem perguntas.
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,python,postgres,supabase,docker,aws,linux,git&perline=13" alt="Stack" />
+**RAG sobre base interna**: ingestão, embeddings, vector store e respostas com citação da fonte, para consultar em linguagem natural o que antes exigia abrir documento por documento.
 
-<!-- Adicione aqui as ferramentas de IA que você usa de verdade, ex: -->
-<!-- `OpenAI` `Anthropic` `LangChain` `pgvector` `n8n` -->
-`n8n` · `Webhooks` · `APIs REST` · `GA4` · `GTM`
+**IA dentro do produto**: features de LLM nas aplicações que o time já usa, e automações com triagem, extração de dados e roteamento no meio do fluxo.
 
-</div>
+**Plataformas internas**: como o Atlas, na V4, que centralizou dados de operação, comercial e mídia (Meta Ads, Google Ads, WhatsApp) que viviam espalhados em planilhas.
 
 ---
 
-## Projetos em destaque
+### Stack
 
-**🤖 Gestor de tráfego autônomo com IA** · *LUSA Brasil*
-Agente de IA que opera a gestão de tráfego pago de forma autônoma.
+<img src="https://skillicons.dev/icons?i=ts,py,nodejs,nestjs,php,laravel,nextjs,react,postgres,supabase,redis,docker,linux,git" alt="Stack" />
 
-**✅ TaskFlow** · *LUSA Brasil*
-Sistema interno de gestão de tarefas da organização.
-
-**📊 Atlas** · *V4 Company*
-Plataforma interna que centralizou dados operacionais, comerciais e de mídia (Meta Ads, Google Ads e sistemas internos) em uma única interface.
-`Next.js` `TypeScript` `Node.js` `Python` `PostgreSQL` `Supabase`
+`LLMs` · `Agentes` · `RAG` · `n8n` · `DigitalOcean` · `WordPress` · `APIs REST` · `Webhooks`
 
 ---
 
-## Trajetória
+### Trajetória
 
-| Onde | O quê | Quando |
+| | | |
 |---|---|---|
-| **LUSA Brasil** | Agentes de IA, sistemas internos e coordenação de dev júnior | MÊS ANO — atual |
-| **V4 Company** | Martech, dashboards de dados, sistemas para SDRs, closers e gestores de tráfego | Set 2025 — Jul 2026 |
-| **ALPLATECH** | Sistemas sob medida, sites e automações para empresas e indústrias | Nov 2024 — Set 2025 |
-| **Studio Games** | Automação de rotinas em Python e suporte de TI | Jan 2024 — Ago 2024 |
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&count_private=true&title_color=D32F2F&icon_color=D32F2F&text_color=FFFFFF&bg_color=0D1117&hide_border=true&locale=pt-br" alt="GitHub stats" />
-
-</div>
+| **LUSA Brasil** | Engenheiro de Software Full Stack · IA aplicada | jul 2026 — atual |
+| **V4 Company** | Engenheiro de Software Full Stack · automação com IA e dados | set 2025 — jun 2026 |
+| **ALPLATECH** | Engenheiro de Software Full Stack · sistemas sob medida | nov 2024 — set 2025 |
+| **Studio Games** | Técnico de TI e Automação · scripts em Python | jan 2024 — ago 2024 |
