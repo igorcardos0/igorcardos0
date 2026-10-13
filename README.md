@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=190&section=header&text=Igor%20Cardoso&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Engenheiro%20de%20Software%20%C2%B7%20IA%20aplicada%20e%20Full%20Stack&descSize=18&descAlignY=58" alt="Igor Cardoso" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=190&section=header&text=Igor%20Cardoso&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Engenheiro%20de%20Software%20%C2%B7%20IA%20aplicada%20e%20Full%20Stack&descSize=18&descAlignY=58" alt="Igor Cardoso" width="100%" />
 
-<a href="https://github.com/igorcardos0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7B2FF7&center=true&vCenter=true&width=640&lines=Agentes+aut%C3%B4nomos+com+acesso+a+ferramentas;RAG+sobre+base+interna+com+cita%C3%A7%C3%A3o+de+fonte;LLMs+dentro+de+produtos+reais;Do+processo+manual+ao+software" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7B2FF7&center=true&vCenter=true&width=640&height=40&lines=Agentes+aut%C3%B4nomos+com+acesso+a+ferramentas;RAG+sobre+base+interna+com+cita%C3%A7%C3%A3o+de+fonte;LLMs+dentro+de+produtos+reais;Do+processo+manual+ao+software" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-s-cardoso/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/igorcardos0)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.igordesouzacardoso@gmail.com)
 
-![Visitas](https://komarev.com/ghpvc/?username=igorcardos0&style=flat-square&color=7B2FF7&label=VISITAS)
 ![Local](https://img.shields.io/badge/Indaiatuba%2C_SP-Brasil-009C3B?style=flat-square)
 ![Foco](https://img.shields.io/badge/foco-IA_aplicada-7B2FF7?style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=igorcardos0&style=flat-square&color=7B2FF7&label=visitas)
 
 </div>
 
 ---
 
-### 👋 Sobre
+## 👋 Sobre
 
 Transformo processos que rodam em planilha, WhatsApp e trabalho manual em software, cada vez mais com IA dentro do fluxo.
 
@@ -28,22 +26,12 @@ Sou engenheiro de software na **LUSA Brasil**, onde construo sistemas de IA apli
 
 Curso Ciência da Computação na UniMAX e estudo para a certificação AWS.
 
-```ts
-const igor = {
-  papel: "Engenheiro de Software · IA aplicada",
-  base: "Indaiatuba, SP 🇧🇷",
-  construindo: ["agentes autônomos", "RAG", "automação com LLM"],
-  estudando: ["AWS", "Ciência da Computação (UniMAX)"],
-  perguntemeSobre: ["agentes", "RAG", "NestJS", "Next.js", "automação de processos"],
-};
-```
-
 ---
 
-### 🛠️ O que eu construo
+## 🛠️ O que eu construo
 
-| | |
-|---|---|
+| Área | O que é |
+|:--|:--|
 | 🤖 **Agentes autônomos** | Agentes com acesso a ferramentas e APIs que executam tarefas em múltiplos passos, não só respondem perguntas. |
 | 🔎 **RAG sobre base interna** | Ingestão, embeddings, vector store e respostas com citação da fonte, para consultar em linguagem natural o que exigia abrir documento por documento. |
 | ✨ **IA dentro do produto** | Features de LLM nas aplicações que o time já usa, e automações com triagem, extração de dados e roteamento no meio do fluxo. |
@@ -51,11 +39,11 @@ const igor = {
 
 ---
 
-### 🧰 Stack
+## 🧰 Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,py,nodejs,nestjs,php,laravel,nextjs,react,postgres,supabase,redis,docker,linux,git,aws&perline=8" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=ts,py,nodejs,nestjs,php,laravel,nextjs,react,postgres,supabase,redis,docker,linux,git,aws&perline=15" alt="Stack" />
 
 <br><br>
 
@@ -72,34 +60,28 @@ const igor = {
 
 ---
 
-### 📊 Atividade
+## 📊 GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcardos0&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/igorcardos0/igorcardos0/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=igorcardos0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcardos0&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Trajetória
+## 🚀 Trajetória
 
 | Empresa | Papel | Período |
-|---|---|---|
+|:--|:--|:--|
 | **LUSA Brasil** | Engenheiro de Software Full Stack · IA aplicada | jul 2026 — atual |
 | **V4 Company** | Engenheiro de Software Full Stack · automação com IA e dados | set 2025 — jun 2026 |
 | **ALPLATECH** | Engenheiro de Software Full Stack · sistemas sob medida | nov 2024 — set 2025 |
 | **Studio Games** | Técnico de TI e Automação · scripts em Python | jan 2024 — ago 2024 |
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=100&section=footer" alt="" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=100&section=footer" alt="" width="100%" />
