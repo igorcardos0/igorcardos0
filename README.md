@@ -35,7 +35,7 @@ Curso Ciência da Computação na UniMAX e estudo para a certificação AWS.
 | 🤖 **Agentes autônomos** | Agentes com acesso a ferramentas e APIs que executam tarefas em múltiplos passos, não só respondem perguntas. |
 | 🔎 **RAG sobre base interna** | Ingestão, embeddings, vector store e respostas com citação da fonte, para consultar em linguagem natural o que exigia abrir documento por documento. |
 | ✨ **IA dentro do produto** | Features de LLM nas aplicações que o time já usa, e automações com triagem, extração de dados e roteamento no meio do fluxo. |
-| 🧩 **Plataformas internas** | Como o Atlas, na V4, que centralizou dados de operação, comercial e mídia (Meta Ads, Google Ads, WhatsApp) que viviam em planilhas. |
+| 🧩 **Plataformas internas** | Como o Atlas, na V4, que centralizou dados de operação, comercial e mídia (Meta Ads, Google Ads, WhatsApp) que viviam em planilhas.. |
 
 ---
 
